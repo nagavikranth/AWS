@@ -61,11 +61,11 @@ after the removing the file into the loacl rpo u have to add the file and commit
 
 15) How do you get back deleted File on git..?? 
 
-git checkout  <commit message Hash code> ^1  <file name> ----------------------------- git checkout c598d53e528bc248bbcb30aed9782e7c10c2f2cd^1 index.html
+git checkout  <commit message Hash code> ^1  <file name> ---- git checkout c598d53e528bc248bbcb30aed9782e7c10c2f2cd^1 index.html
 
 16) How do you revert back the last commit of the fils..?
 
-git checkout <commit message Hash code>   <file name> --------------------------- git checkout 7afec67a197f71fbac7f3da908086705bc2f97dd code.txt
+git checkout <commit message Hash code>   <file name> ---- git checkout 7afec67a197f71fbac7f3da908086705bc2f97dd code.txt
 
 17) How to Create the Branch in the git..?? add a new branch
 
